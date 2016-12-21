@@ -1,0 +1,2 @@
+# htaccess
+Документация по htaccess
